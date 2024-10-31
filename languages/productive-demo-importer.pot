@@ -1,0 +1,1703 @@
+# Copyright (C) 2024 Productive Demo Importer
+# This file is distributed under the same license as the Productive Demo Importer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Productive Demo Importer 1.1.18\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/productive-demo-"
+"importer\n"
+"POT-Creation-Date: 2024-10-07 02:28:25+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/common/options/global/global-settings-admin.php:12
+#: admin/common/options/global/global-settings-admin.php:13
+msgid "Productive Global Settings"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:14
+msgid "Global Settings"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:16
+msgid "Grids and Breakpoints"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:17
+msgid "PopUps"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:18
+msgid "Sliders"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:19
+msgid "Sharing"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:20
+msgid "Other Settings"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:35
+msgid "Productive Minds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:42
+msgid "Productive Product"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:49
+msgid "Productive Commerce"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:56
+msgid "Productive Forms"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:63
+msgid "Productive Style"
+msgstr ""
+
+#. #-#-#-#-#  productive-demo-importer.pot (Productive Demo Importer 1.1.18)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/common/options/global/global-settings-admin.php:70
+msgid "Productive Demo Importer"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:111
+msgid "ProductiveMinds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:112
+msgid "ProductiveMinds Patterns."
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:218
+msgid "Productive Commerce, A Required Plugin for This Pattern, Is Missing"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:221
+msgid "To access this pattern, first activate the Productive Commerce plugin: "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:224
+#: admin/common/options/global/global-settings-admin.php:243
+#: admin/common/options/global/global-settings-admin.php:262
+msgid "Pattern: "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:228
+#: admin/common/options/global/global-settings-admin.php:247
+#: admin/common/options/global/global-settings-admin.php:266
+msgid "Pattern Demo: "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:237
+msgid "Productive Forms, A Required Plugin for This Pattern, Is Missing"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:240
+msgid "To access this pattern, first activate the Productive Forms plugin: "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:256
+msgid "Productive Style, A Required Plugin for This Pattern, Is Missing"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:259
+msgid "To access this pattern, first activate the Productive Style plugin: "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:298
+msgid "You do not have permission to access this resource."
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:309
+msgid "Settings Saved"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:728
+msgid "Activate"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:729
+msgid "De-Activate"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:735
+msgid "Enable"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:736
+#: admin/common/options/global/global-settings-admin.php:1160
+msgid "Disable"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:742
+msgid "Show"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:743
+#: admin/common/options/global/global-settings-admin.php:770
+#: admin/common/options/global/global-settings-admin.php:786
+#: admin/common/options/global/global-settings-admin.php:795
+msgid "Hide"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:749
+#: admin/common/options/global/partials/part-global-fields-sharing.php:281
+msgid "Yes"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:750
+#: admin/common/options/global/global-settings-admin.php:803
+#: admin/common/options/global/partials/part-global-fields-sharing.php:284
+msgid "No"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:756
+msgid "True"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:757
+msgid "False"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:763
+msgid "Start"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:764
+msgid "Stop"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:771
+#: admin/common/options/global/global-settings-admin.php:812
+#: admin/common/options/global/global-settings-admin.php:1024
+#: admin/common/options/global/global-settings-admin.php:1045
+#: admin/common/options/global/global-settings-admin.php:1054
+msgid "Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:772
+#: admin/common/options/global/global-settings-admin.php:813
+#: admin/common/options/global/global-settings-admin.php:1025
+#: admin/common/options/global/global-settings-admin.php:1046
+#: admin/common/options/global/global-settings-admin.php:1055
+msgid "Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:778
+#: admin/common/options/global/global-settings-admin.php:1127
+msgid "None"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:779
+msgid "Image"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:780
+msgid "Icon"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:787
+msgid "Text"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:788
+msgid "Link, Open In The Same Window"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:789
+msgid "Link, Open In New Window"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:796
+#: admin/common/options/global/global-settings-admin.php:804
+msgid "Yes, Open In The Same Window"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:797
+#: admin/common/options/global/global-settings-admin.php:805
+msgid "Yes, Open In New Window"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:811
+#: admin/common/options/global/global-settings-admin.php:838
+#: admin/common/options/global/global-settings-admin.php:857
+#: admin/common/options/global/global-settings-admin.php:892
+#: admin/common/options/global/global-settings-admin.php:903
+msgid "Center"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:819
+#: admin/common/options/global/global-settings-admin.php:837
+#: admin/common/options/global/global-settings-admin.php:935
+#: admin/common/options/global/global-settings-admin.php:957
+#: admin/common/options/global/global-settings-admin.php:965
+#: admin/common/options/global/global-settings-admin.php:973
+#: admin/common/options/global/global-settings-admin.php:983
+msgid "Default"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:820
+msgid "Default, with Background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:821
+msgid "Default, with Border"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:822
+msgid "Rounded Corner, with Background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:823
+msgid "Rounded Corner, with Border"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:824
+msgid "Ellipse, with Background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:825
+msgid "Ellipse, with Border"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:826
+msgid "Default, with Background (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:827
+msgid "Default, with Border (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:828
+msgid "Rounded Corner, with Background (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:829
+msgid "Rounded Corner, with Border (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:830
+msgid "Ellipse, with Background (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:831
+msgid "Ellipse, with Border (Box)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:839
+#: admin/common/options/global/global-settings-admin.php:858
+msgid "Start (Left)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:840
+#: admin/common/options/global/global-settings-admin.php:859
+msgid "End (Right)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:841
+msgid "Justify"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:847
+#: admin/common/options/global/global-settings-admin.php:869
+#: admin/common/options/global/global-settings-admin.php:880
+#: admin/common/options/global/global-settings-admin.php:1043
+#: admin/common/options/global/global-settings-admin.php:1052
+msgid "Top"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:848
+#: admin/common/options/global/global-settings-admin.php:868
+#: admin/common/options/global/global-settings-admin.php:879
+msgid "Middle"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:849
+#: admin/common/options/global/global-settings-admin.php:870
+#: admin/common/options/global/global-settings-admin.php:881
+#: admin/common/options/global/global-settings-admin.php:1044
+#: admin/common/options/global/global-settings-admin.php:1053
+msgid "Bottom"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:850
+#: admin/common/options/global/global-settings-admin.php:871
+#: admin/common/options/global/global-settings-admin.php:882
+#: admin/common/options/global/global-settings-admin.php:895
+msgid "Stretch"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:851
+#: admin/common/options/global/global-settings-admin.php:861
+#: admin/common/options/global/global-settings-admin.php:885
+#: admin/common/options/global/global-settings-admin.php:908
+msgid "Space Evenly"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:860
+#: admin/common/options/global/global-settings-admin.php:884
+#: admin/common/options/global/global-settings-admin.php:907
+msgid "Space Around"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:862
+#: admin/common/options/global/global-settings-admin.php:883
+#: admin/common/options/global/global-settings-admin.php:906
+msgid "Space Between"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:872
+msgid "Baseline"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:873
+#: admin/common/options/global/global-settings-admin.php:886
+#: admin/common/options/global/global-settings-admin.php:897
+#: admin/common/options/global/global-settings-admin.php:909
+msgid "Initial"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:893
+#: admin/common/options/global/global-settings-admin.php:904
+msgid "Left (Start)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:894
+#: admin/common/options/global/global-settings-admin.php:905
+msgid "Right (End)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:896
+msgid "Normal"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:915
+msgid "None (no color scheme)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:916
+msgid "Light Color Scheme"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:917
+msgid "Dark Color Scheme"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:918
+#: admin/common/options/global/global-settings-admin.php:929
+msgid "Theme&#39;s Color Scheme"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:924
+msgid "No (no color scheme)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:925
+msgid "Light Background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:926
+msgid "Dark Background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:927
+msgid "Light Background, Dark Content"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:928
+msgid "Dark Background, Light Content"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:936
+msgid "Narrow"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:937
+msgid "Narrow, Align Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:938
+msgid "Narrow, Align Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:939
+msgid "Thin"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:940
+msgid "Thin, Align Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:941
+msgid "Thin, Align Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:942
+msgid "Extra Thin"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:943
+msgid "Extra Thin, Align Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:944
+msgid "Extra Thin, Align Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:945
+msgid "Micro Thin"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:946
+msgid "Micro Thin, Align Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:947
+msgid "Micro Thin, Align Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:948
+msgid "Wide"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:949
+msgid "Full Width (with padding)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:950
+msgid "Full Width (100%)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:956
+msgid "No Spacing"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:958
+msgid "Small"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:959
+msgid "Large"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:966
+msgid "Wide Page Width"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:967
+msgid "Full Page Width"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:974
+#: admin/common/options/global/global-settings-admin.php:984
+msgid "Sharp Corner"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:975
+#: admin/common/options/global/global-settings-admin.php:985
+msgid "Rounded Corner"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:976
+#: admin/common/options/global/global-settings-admin.php:986
+#: admin/common/options/global/global-settings-admin.php:1429
+msgid "Ellipse"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:977
+#: admin/common/options/global/global-settings-admin.php:987
+msgid "Oval"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:993
+msgid "90 : 10"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:994
+msgid "85 : 15"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:995
+msgid "80 : 20"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:996
+msgid "75 : 25"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:997
+msgid "70 : 30"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:998
+msgid "65 : 35"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:999
+msgid "60 : 40"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1000
+msgid "55 : 45"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1001
+msgid "50 : 50"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1002
+msgid "45 : 55"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1003
+msgid "40 : 60"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1004
+msgid "35 : 65"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1005
+msgid "30 : 70"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1006
+msgid "25 : 75"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1007
+msgid "20 : 80"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1008
+msgid "15 : 85"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1009
+msgid "10 : 90"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1012
+msgid "Full Width"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1019
+msgid "Top Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1020
+msgid "Top Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1021
+msgid "Bottom Right"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1022
+msgid "Bottom Left"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1023
+msgid "Central"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1031
+msgid "Ease"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1032
+msgid "Ease In"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1033
+msgid "Ease Out"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1034
+msgid "Ease In/Out"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1035
+msgid "Linear"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1036
+msgid "Cubic Bezier Style 1"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1037
+msgid "Cubic Bezier Style 2"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1061
+msgid "Default Design"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1062
+#: admin/common/options/global/global-settings-admin.php:1075
+msgid "Design 01"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1063
+#: admin/common/options/global/global-settings-admin.php:1076
+msgid "Design 02"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1064
+#: admin/common/options/global/global-settings-admin.php:1077
+msgid "Design 03"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1065
+#: admin/common/options/global/global-settings-admin.php:1078
+msgid "Design 04"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1066
+msgid "Design 05"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1067
+msgid "Design 06"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1068
+msgid "Design 07"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1069
+msgid "Design 08"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1084
+#: admin/common/options/global/global-settings-admin.php:1140
+msgid "1 - Default"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1085
+#: admin/common/options/global/global-settings-admin.php:1142
+msgid "2"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1086
+#: admin/common/options/global/global-settings-admin.php:1144
+msgid "3"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1087
+#: admin/common/options/global/global-settings-admin.php:1146
+msgid "4"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1088
+#: admin/common/options/global/global-settings-admin.php:1148
+msgid "5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1089
+#: admin/common/options/global/global-settings-admin.php:1150
+msgid "6"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1090
+#: admin/common/options/global/global-settings-admin.php:1152
+msgid "7"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1091
+#: admin/common/options/global/global-settings-admin.php:1154
+msgid "8"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1097
+msgid "Slide"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1098
+msgid "Fade"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1099
+msgid "Flip"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1100
+msgid "Cards"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1106
+msgid "1 second"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1107
+msgid "2 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1108
+msgid "3 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1109
+msgid "4 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1110
+msgid "5 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1111
+msgid "7.5 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1112
+msgid "10 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1113
+msgid "15 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1114
+msgid "20 seconds"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1120
+msgid "Horizontal"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1128
+msgid "Touch Swipe Only"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1129
+msgid "Pagination Dots Only"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1130
+msgid "Prev/Next Arrows Only"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1131
+msgid "Dots &#38; Arrows"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1132
+msgid "Touch Swipe &#38; Arrows"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1133
+msgid "Touch Swipe &#38; Dots"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1134
+msgid "Allow All Three Actions"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1141
+msgid "1.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1143
+msgid "2.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1145
+msgid "3.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1147
+msgid "4.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1149
+msgid "5.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1151
+msgid "6.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1153
+msgid "7.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1161
+#: admin/common/options/global/partials/part-global-fields-slider.php:275
+msgid "Mobile (portrait)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1162
+#: admin/common/options/global/partials/part-global-fields-grid.php:528
+msgid "Mobile (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1163
+#: admin/common/options/global/partials/part-global-fields-slider.php:249
+msgid "Tablet (portrait)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1164
+#: admin/common/options/global/partials/part-global-fields-grid.php:433
+msgid "Tablet (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1165
+#: admin/common/options/global/partials/part-global-fields-grid.php:385
+#: admin/common/options/global/partials/part-global-fields-slider.php:223
+msgid "Desktop"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1166
+#: admin/common/options/global/partials/part-global-fields-slider.php:210
+msgid "Widescreen"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1172
+msgid "0.1 (transparent)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1173
+msgid "0.2"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1174
+msgid "0.3"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1175
+msgid "0.4"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1176
+msgid "0.5"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1177
+msgid "0.6"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1178
+msgid "0.7"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1179
+msgid "0.8"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1180
+msgid "0.9"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1181
+msgid "1.0 (opaque)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1187
+msgid "h1 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1188
+msgid "h2 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1189
+msgid "h3 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1190
+msgid "h4 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1191
+msgid "h5 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1192
+msgid "h6 css style"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1198
+msgid "h1 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1199
+msgid "h2 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1200
+msgid "h3 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1201
+msgid "h4 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1202
+msgid "h5 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1203
+msgid "h6 html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1204
+msgid "div html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1205
+msgid "span html tag"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1317
+msgid "All"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1334
+msgid "Newest First"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1335
+msgid "Oldest First"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1336
+msgid "My Order"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1337
+msgid "Title (a-z)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1338
+msgid "Title (z-a)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1427
+msgid "Sharp Corners"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1428
+msgid "Round Corners"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1435
+#: admin/common/options/global/global-settings-admin.php:1448
+msgid "Circle"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1436
+#: admin/common/options/global/global-settings-admin.php:1449
+msgid "Square"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1437
+msgid "Rectangle"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1438
+msgid "Hybrid"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1441
+msgid "None (hide pagination controls)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1450
+msgid "Transparent background"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1453
+msgid "None (hide nav controls)"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1537
+msgid "Close"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1981
+msgid "Page Content Navigation "
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:1995
+msgid "Previous"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:2000
+msgid "Next"
+msgstr ""
+
+#: admin/common/options/global/global-settings-admin.php:2017
+msgid "Page "
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:11
+msgid "Breakpoints and Gap Settings for Grids"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:12
+msgid ""
+"These setting are relevant to all grids that are generated by our plugins "
+"and themes."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:40
+msgid "Row Gap (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:53
+msgid "Column Gap (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:80
+msgid "Widescreen Breakpoint"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:93
+#: admin/common/options/global/partials/part-global-fields-grid.php:134
+#: admin/common/options/global/partials/part-global-fields-grid.php:174
+#: admin/common/options/global/partials/part-global-fields-grid.php:214
+#: admin/common/options/global/partials/part-global-fields-grid.php:255
+#: admin/common/options/global/partials/part-global-fields-grid.php:295
+msgid "Columns per row"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:121
+msgid "Desktop Breakpoint"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:161
+#: admin/common/options/global/partials/part-global-fields-grid.php:242
+msgid "Tablet (Lanscape) Breakpoint"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:201
+#: admin/common/options/global/partials/part-global-fields-grid.php:282
+msgid "Tablet (Portrait) Breakpoint"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:305
+msgid "Grid Gaps"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:337
+msgid "Widescreens"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:373
+#: admin/common/options/global/partials/part-global-fields-grid.php:421
+msgid "Columns per row in a grid on Widescreens"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:469
+msgid "Columns per row in a grid on Tablet (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:481
+msgid "Tablet (Portrait)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:517
+msgid "Columns per row in a grid on Tablet (Portrait)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:564
+msgid "Columns per row in a grid on Mobile (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:576
+msgid "Mobile (Portrait)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-grid.php:612
+msgid "Columns per row in a grid on Mobile (Portrait)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:11
+msgid "Other Global Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:12
+msgid "These setting are relevant across all our plugins and themes"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:40
+msgid "Loading Animation Colour 1"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:53
+msgid "Loading Animation Colour 2"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:66
+msgid "Loading Animation Wheel Diameter (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:79
+msgid "Loading Animation Wheel Thickness (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:90
+msgid "Loading Animation Wheel Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:105
+msgid "First color of the loading animation wheel."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:121
+msgid "Second color of the loading animation wheel"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:135
+msgid "The size of the loading animation wheel (default is: 25)."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-misc.php:149
+msgid "The thickness of the loading animation wheel (default is: 7)."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:11
+msgid "Global PopUp Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:12
+msgid ""
+"These setting are relevant to all PopUps that are generated by our plugins "
+"and themes"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:27
+msgid "Popup Transition Easing Mode"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:41
+msgid "Popup Transition IN/OUT Direction"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:54
+msgid "Popup Header and Footer Background Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:67
+msgid "Popup Header and Footer Text Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:80
+msgid "Popup Header and Footer Hyperlinks Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:93
+msgid "Popup Header and Footer Hyperlinks Colour (on hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:106
+msgid "Popup Close Button Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:119
+msgid "Popup Close Button Background"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:132
+msgid "Popup Close Button Colour (on Hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:145
+msgid "Popup Close Button Background (on Hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:158
+msgid "Popup Minimum width (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:171
+msgid "Popup Max width (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:184
+msgid "Popup Full Screen Mode (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:197
+msgid "Close Popup with ESC Key?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:210
+msgid "Click Elsewhere to Close Popup?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:223
+msgid "Popup Background Opacity"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:236
+msgid "Use Styles from the Theme?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:266
+msgid "The easing mode for entrance and exit of Popup."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:293
+msgid "The direction of transition for entrance and exit of Popup"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:309
+msgid "Background colour for popup header and footer background."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:325
+msgid "Colour of textual content in popup header and footer"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:341
+msgid "Colour of hyperlink(s) in popup header and footer"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:357
+msgid "Colour of hyperlink(s) in popup header and footer on hover"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:373
+msgid "Close button colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:389
+msgid "Close button background colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:405
+msgid "Close button colour (on Hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:421
+msgid "Close button background colour (on Hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:457
+msgid ""
+"Popuup will fill the screen both vertically and horizontally, at this screen "
+"size - set to 0 to disable this feature."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:471
+msgid "Allow users to close popup by pressing escape key on their keyboard?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:485
+msgid "Allow users to close popup by clicking outside the popup modal?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:511
+msgid "Popup background transparency (opacity)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-popup.php:525
+msgid ""
+"Ignore settings on this page and use theme css styles instead. Effective "
+"only when using one of our themes. "
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:11
+msgid "Social Media Sharing Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:12
+msgid ""
+"These social media sharing options are efective across all our plugins and "
+"themes"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:39
+msgid "Icons Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:52
+msgid "Icons Background Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:65
+msgid "Icons Background Colour (on Hover)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:78
+msgid "Use Platform Background and White Icon "
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:91
+msgid "Location of the \"Share On:\" Copy"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:104
+msgid "Icons Size (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:117
+msgid "Icons Spacing (px)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:144
+msgid "Enable Facebook Sharing?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:157
+msgid "Enable X (Twitter) Sharing?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:170
+msgid "Enable PInterest Sharing?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:196
+msgid "Enable WhatsApp Sharing?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:209
+msgid "Enable Email Sharing?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:219
+msgid "Icon Colours and Dimensions"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:234
+msgid ""
+"The main colour of each icon. Leave empty to use each social media icon "
+"original colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:250
+msgid "Colour of the background surrounding each icon"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:266
+msgid "Colour of the background surrounding each icon when hovering over it"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:288
+msgid ""
+"Highlight social media icons using brand logo colors around a white icon."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:303
+msgid "Above Icons"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:306
+msgid "Inline with Icons"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:310
+msgid "Place the \"Share on:\" copy above or inline with social media icons"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:324
+msgid "The size of each icon (default is: 20)."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:338
+msgid "The spacing between the icons (default is: 2)."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-sharing.php:348
+msgid "Social Media Platforms Availability"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:11
+msgid "Global Slider Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:12
+msgid ""
+"These setting are relevant to all sliders that are generated by our plugins "
+"and themes."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:26
+msgid "Slides Transition style"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:39
+msgid "Play slides automatically?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:52
+msgid "Play slides in Loop?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:65
+msgid "Pause on MouseOver?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:79
+msgid "Enable Lazy Loading?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:92
+msgid "Delays between slides transition"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:105
+msgid "Transition Direction"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:118
+msgid "Slides Transition Controls"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:131
+msgid "Slider Controls Primary Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:144
+msgid "Slider Controls Secondary Colour"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:157
+msgid "Slider Bottom Pagination Controls Shape"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:170
+msgid "Slider Side Navigation Controls Shape"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:183
+msgid "Slider Nav Controls Padding"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:236
+msgid "Tablet (landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:262
+msgid "Mobile (landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:308
+msgid "The style of slide transition"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:322
+msgid "Automatically play slides."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:336
+msgid "Play slides in infinite loop"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:350
+msgid "Pause slide autoplay when user hovers on slide"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:364
+msgid "Enable lazy loading"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:390
+msgid "The delay between slide transitions."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:416
+msgid "Transitions direction - only horizontal supported."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:442
+msgid "Which slides transition control(s) are users allowed?"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:458
+#: admin/common/options/global/partials/part-global-fields-slider.php:474
+msgid "Effective on both side navigation and bottom pagination buttons."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:500
+msgid "Pagination controls buttons shape (bottom dots)s."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:526
+msgid "Slider navigation control buttons shape (left and right side buttons)."
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:549
+msgid "Slides Per View Settings"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:574
+msgid "Slides Per View on Widescreen"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:600
+msgid "Slides Per View on Desktop"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:626
+msgid "Slides Per View on Tablet (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:652
+msgid "Slides Per View on Tablet (Portrait)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:678
+msgid "Slides Per View on Mobile (Landscape)"
+msgstr ""
+
+#: admin/common/options/global/partials/part-global-fields-slider.php:704
+msgid "Slides Per View on Mobile (Portrait)"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:27
+msgid "How To Use "
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:39
+msgid "Getting Started"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:192
+msgid "Leave a Review"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:194
+msgid ""
+"Share Your Insights! Get featured on our website and help enhance our effort."
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:205
+#: admin/options/settings.php:154
+msgid "Kindly submit a review"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:217
+#: admin/options/settings.php:95
+msgid "Get Support"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:219
+msgid "Contact us effortlessly for timely assistance."
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:223
+msgid "Access Support"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:235
+#: admin/options/settings.php:94
+msgid "Documentation"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:237
+msgid "Seeking user guides for configuring this plugin on your website?"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:241
+msgid "Access documentation"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:254
+msgid "Our Plugins"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:268
+msgid "Web pages and content building tools..."
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:275
+#: admin/options/partials/section-import-steps.php:305
+#: admin/options/partials/section-import-steps.php:335
+msgid "Install plugin"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:279
+#: admin/options/partials/section-import-steps.php:309
+#: admin/options/partials/section-import-steps.php:339
+msgid "Customize plugin"
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:298
+msgid "Wishlist, Compare, Quick View, MiniCart..."
+msgstr ""
+
+#: admin/options/partials/section-import-steps.php:328
+msgid "Contact forms, Newsletter opt-ins..."
+msgstr ""
+
+#: admin/options/settings.php:15
+msgid " Admin Settings and Options"
+msgstr ""
+
+#: admin/options/settings.php:73
+msgid "You do not have permision to access this page"
+msgstr ""
+
+#: admin/options/settings.php:151
+msgid ""
+"Support our efforts, interact with fellow users, and contribute to enhancing "
+msgstr ""
+
+#: includes/db/db_transactions.php:57
+msgid "Unable to complete your request - please try again later"
+msgstr ""
+
+#: includes/db/db_transactions.php:67
+msgid "Demo data has been successfully imported"
+msgstr ""
+
+#: includes/db/db_transactions.php:72
+msgid "Selected Theme is not recognised"
+msgstr ""
+
+#: productive-demo-importer.php:69
+msgid "Demo Import Steps"
+msgstr ""
+
+#: productive-demo-importer.php:70
+msgid "Old Steps (please ignore)"
+msgstr ""
+
+#: productive-demo-importer.php:110
+msgid "Select a Theme, then try again."
+msgstr ""
+
+#: productive-demo-importer.php:111
+msgid ""
+"Please confirm this is a test site or new WordPress installation, then try "
+"again."
+msgstr ""
+
+#: productive-demo-importer.php:112
+msgid "Select the Required Demo Content (Homepage or Menu), then try again."
+msgstr ""
+
+#: productive-demo-importer.php:138
+msgid "Start Demo Import"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.productiveminds.com/product/productive-demo-importer"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The official demo content Importer for themes by productiveminds.com. This "
+"plugin will import demo content including Header and Footer menu, Widgets "
+"settings and customiser settings to set up your new WordPress website with "
+"similar content as our live demo of the theme. It is lightweight and works "
+"with little effort."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "productiveminds.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.productiveminds.com"
+msgstr ""

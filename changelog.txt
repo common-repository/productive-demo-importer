@@ -1,0 +1,34 @@
+
+== Changelog ==
+
+= v1.1.0, released on 2023-10-21st =
+- (compatibility): Updated and verified compatibility with WordPress 6.3.2.
+- (improvement): Routine maintenance and enhancements.
+- (improvement): Enhanced admin dashboard.
+- (improvement): Refactored core features within the global framework.
+
+
+= v1.0.7, released on 2023-08-01 =
+- (compatibility): Tested for compatibility with WordPress 6.2.2.
+- (improvement): Routine maintenance and enhancements.
+
+
+= v1.0.3, released on 2023-01-31 =
+- (improvement): Code refactoring and enhancements.
+
+
+= v1.0.2, released on 2022-11-29 =
+- (improvement): Routine maintenance and enhancements.
+
+
+= v1.0.1, released on 2022-10-30 =
+- (release): Initial release on wordpress.org.
+
+
+= v0.0.1, released on 2022-10-27 =
+- (development): Completed features in preparation for initial release.
+- (improvements): Updates following reviewer comments, along with bug fixes and improvements.
+
+
+= v0.0.0, released on 2022-10-24 =
+- (development): Initial submission for review on wordpress.org.
